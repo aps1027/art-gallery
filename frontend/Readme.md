@@ -1,5 +1,14 @@
-#frontend
+# Art Gallery
 
-#1.npm install under frontend Folder.
+## Installation
 
-#2.Run project => npx vite --port 4000
+```
+-cd frontend
+
+-npm install
+```
+
+## For Running (Android)
+
+- npx vite --port 4000
+
